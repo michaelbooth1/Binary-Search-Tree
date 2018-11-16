@@ -1,0 +1,1 @@
+This assignment I was tasked with creating and implementing a binary search tree that would store graphical objects. 
